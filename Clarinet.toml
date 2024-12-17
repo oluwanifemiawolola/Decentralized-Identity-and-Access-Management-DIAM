@@ -10,6 +10,11 @@ path = 'contracts/access-control.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.auth-integration]
+path = 'contracts/auth-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.verifiable-credentials]
 path = 'contracts/verifiable-credentials.clar'
 clarity_version = 2

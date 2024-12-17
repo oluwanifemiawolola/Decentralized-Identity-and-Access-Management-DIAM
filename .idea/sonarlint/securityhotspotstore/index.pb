@@ -13,3 +13,7 @@ L
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+O
+contracts/auth-integration.clar,a/9/a9b40cb24f0aa1fe64d551c646a31ef8727dfcbf
+N
+tests/auth-integration.test.ts,e/b/eba00b3ef283787ef7c0469da6ac277cc0180a89

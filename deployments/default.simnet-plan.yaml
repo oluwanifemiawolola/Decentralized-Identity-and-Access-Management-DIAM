@@ -55,6 +55,11 @@ plan:
             path: contracts/access-control.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: auth-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/auth-integration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: verifiable-credentials
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/verifiable-credentials.clar
