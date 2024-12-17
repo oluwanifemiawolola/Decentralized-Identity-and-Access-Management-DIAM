@@ -7,3 +7,9 @@ T
 $tests/verifiable-credentials.test.ts,9/9/995ce3df503567cf21f2b2a49986a2a40c5ca023
 M
 contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
+L
+tests/access-control.test.ts,1/e/1e94a77628633661eb7a04e44552fb418034370a
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+<
+package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
